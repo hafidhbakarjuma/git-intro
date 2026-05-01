@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Massage from main branch
-=======
-Message from feature branch
->>>>>>> feature-greeting
+Change from feature branch
